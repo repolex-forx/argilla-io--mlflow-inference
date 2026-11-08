@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/argilla-io/mlflow-inference/commit/83aa0246adfd6f452bd27e5cc8a052ce2a9d2bf2",
       "git:hexsha": "83aa0246adfd6f452bd27e5cc8a052ce2a9d2bf2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T02:17:02.004369+00:00"
     }
   ]
 }
