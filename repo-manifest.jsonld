@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/argilla-io/mlflow-inference/commit/83aa0246adfd6f452bd27e5cc8a052ce2a9d2bf2",
       "git:hexsha": "83aa0246adfd6f452bd27e5cc8a052ce2a9d2bf2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
